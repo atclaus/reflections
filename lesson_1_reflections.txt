@@ -1,0 +1,16 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+It was easy to see where they were different and ignore the similiarities.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+It would make it easy to see the progression of the file.
+It would be easy to roll back problems.
+It would be easier to avoid repeating mistakes.
+
+How might using version control make you more confident to make changes that could break something?
+Easier to revert.
+Easier to find errors.
+
+Some reflection that they wanted me to write.
+
+
+
