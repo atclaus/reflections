@@ -17,3 +17,7 @@ Show parents and branches readily.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 they become a single branch with both sets of commits accesible
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros are it combines things that are readily different.
+Cons are it does not do everything and needs user input to resolve conflicts.
